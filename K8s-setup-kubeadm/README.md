@@ -37,7 +37,7 @@ sudo sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab
 ---
 
 
-## Step 2: Install Container Runtime on Each Server
+## Step 2: Install Container Runtime on each Server
 
 
 
